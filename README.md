@@ -8,6 +8,5 @@ Hi! My name is Ushun. I'm a MSPPM student. I found this course interesting and u
 I would like to learn how to use color properly to make charts clear. Besides, I would like to have deeper understanding about the use of different types of charts, such as pie charts, line graphs, bar charts, etc. How to smartly redesign a chart is also an important tecnique to learn.
 
 # Portfolio
-Assignment2: Discussion Topic Crafting for Clarity - Week Two (Discussion/Workbook)
-Assignment3: Visualizing government debt
-Final Project
+## This is an <Assignment2: Discussion Topic Crafting for Clarity - Week Two (Discussion/Workbook)> tag
+## This is an <Assignment3: Visualizing government debt> tag
