@@ -11,3 +11,4 @@ I would like to learn how to use color properly to make charts clear. Besides, I
 ## Assignment2: Discussion Topic Crafting for Clarity - Week Two (Discussion/Workbook)
 ## Assignment3: Visualizing government debt
 ## Final Project
+<div class="flourish-embed flourish-chart" data-src="visualisation/7246556"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
