@@ -58,4 +58,4 @@ Here is the redesigned visualization:
 First, I changed the color. I used Blue to represent active users and filled the rest of the bar with grey. I only maitain one line to connect each bar in order to show that the whole bar represent the number of total user. I chose stacked bar chart because it can not only show the proportion of active users in the total users, but clearly compare the data of the 5 apps. I attempted to make a obvious comparison among the apps and make the proportion of active users stand out.
 
 ## Final Project
-<div class="flourish-embed flourish-chart" data-src="visualisation/7246556"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+https://yuxuansh.github.io/Part-3/
